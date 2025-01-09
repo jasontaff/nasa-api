@@ -23,7 +23,7 @@ function App() {
       `?api_key=${NASA_KEY}`
 
 
-      const today = (new Date()).toDateString;
+      const today = new Date().toDateString();
       const localKey = `NASA-${today}`;
 
       if(localStorage.getItem(localKey)){
