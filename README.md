@@ -4,7 +4,7 @@ URL: https://nasa-api-pull.netlify.app/
 This React application fetches NASA's "Picture of the Day" using their open API. The app displays the image along with a small modal containing NASA's description. It uses local storage to cache the image for performance optimization and offline access.  
 
 ## Features  
-- Displays NASA's daily "Picture of the Day."  
+- Displays NASA's daily "Picture of the Day."  Or Video of the day
 - A modal with detailed information about the image.  
 - Optimized performance using local storage caching.  
 
